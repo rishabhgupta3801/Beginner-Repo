@@ -30,4 +30,4 @@ Format
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
-
+##{Rishabh Gupta](https://github.com/rishabhgupta3801)
